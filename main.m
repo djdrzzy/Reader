@@ -29,6 +29,6 @@ int main(int argc, char *argv[])
 {
 	@autoreleasepool
 	{
-		return UIApplicationMain(argc, argv, nil, @"ReaderAppDelegate");
+		return UIApplicationMain(argc, argv, nil, @"ReaderBookDelegate");
 	}
 }
